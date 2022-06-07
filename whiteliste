@@ -356,3 +356,33 @@ amzn.to
 # ZooPlus
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
+
+# PiHole Import
+partnernet.amazon.de
+apple.co
+l.instagram.com
+spotify.app.link
+www.googleadservices.com
+ddownload.com
+skydeutschland.sc.omtrdc.net
+combine.urbanairship.com
+app-measurement.com
+imasdk.googleapis.com
+metrics.brightcove.com
+geni.us
+www.avonemedia.com
+sport1.pushwoosh.com
+ha.pushwoosh.com
+richmedia.pushwoosh.com
+wrapper-api.sp-prod.net
+adstax-match.adrtx.net
+acdn.adnxs.com
+rem-track.bild.de
+www.asadcdn.com
+cdn.taboola.com
+tags.tiqcdn.com
+ping.chartbeat.net
+iam-agof-app.irquest.com
+code.bildstatic.de
+json.bild.de
+tagger.opecloud.com
