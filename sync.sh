@@ -1,18 +1,17 @@
 #!/bin/bash
 cd /opt/adguard-sync
 
-# Whitelist (Erlaubnisliste)
-grep "@@" /opt/AdGuardHome/AdGuardHome.yaml > whitelist.txt 2>/dev/null
+# NUR saubere Regeln extrahieren und filtern
+grep "@@||" /opt/AdGuardHome/AdGuardHome.yaml \
+  | grep -iv "porn" \
+  | grep -iv "redtube" \
+  | grep -iv "youporn" \
+  | grep -iv "xhamster" \
+  | grep -iv "xvideos" \
+  | sed "s/^[- '\"]*//g" \
+  | sed "s/'$//g" \
+  > custom_rules.txt
 
-# Custom Blocklist (eigene Sperren)
-grep -v "^#" /opt/AdGuardHome/AdGuardHome.yaml | grep "||" > blocklist.txt 2>/dev/null
-
-# Oder: Komplette User-Filter Regeln
-cp /opt/AdGuardHome/data/filters/custom.txt custom_rules.txt 2>/dev/null
-
-# Gesamte Config (optional - enthält ALLES)
-cp /opt/AdGuardHome/AdGuardHome.yaml AdGuardHome.yaml 2>/dev/null
-
-git add -A
-git diff --cached --quiet || git commit -m "AdGuard Sync $(date '+%Y-%m-%d %H:%M')"
+git add custom_rules.txt
+git diff --cached --quiet || git commit -m "Filter Update $(date '+%Y-%m-%d %H:%M')"
 git push
