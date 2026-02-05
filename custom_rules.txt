@@ -1,244 +1,242 @@
-  - '@@||device-metrics-us-2.amazon.com^$important'
-  - '@@||static.criteo.net^$important'
-  - '@@||s.ytimg.com^$important'
-  - '@@||s.youtube.com^$important'
-  - '@@||bit.ly^$important'
-  - '@@||amzn.to^$important'
-  - '@@||metrics.icloud.com^$important'
-  - '@@||de.aliexpress.com^$important'
-  - '@@||ae01.alicdn.com^$important'
-  - '@@||sourcepoint.mgr.consensu.org^$important'
-  - '@@||v.shopify.com^$important'
-  - '@@||fonts.gstatic.com^$important'
-  - '@@||assets.adobedtm.com^$important'
-  - '@@||sams.spiegel.de^$important'
-  - '@@||script.ioam.de^$important'
-  - "@@||confiant-integrations.global.ssl.fastly.net\t^$important"
-  - '@@||xhamster.com^$important'
-  - "@@||sport1.pushwoosh.com\t^$important"
-  - "@@||ha.pushwoosh.com\t^$important"
-  - "@@||richmedia.pushwoosh.com\t^$important"
-  - '@@||de.ioam.de^$important'
-  - "@@||adstax-match.adrtx.net\t^$important"
-  - "@@||acdn.adnxs.com\t^$important"
-  - "@@||rem-track.bild.de\t^$important"
-  - "@@||www.asadcdn.com\t^$important"
-  - "@@||cdn.taboola.com\t^$important"
-  - "@@||tags.tiqcdn.com\t^$important"
-  - "@@||asadcdn.com\t^$important"
-  - "@@||taboola.com\t^$important"
-  - "@@||ioam.de\t^$important"
-  - "@@||imagesrv.adition.com\t^$important"
-  - "@@||ping.chartbeat.net\t^$important"
-  - "@@||iam-agof-app.irquest.com\t^$important"
-  - '@@||json.bild.de^$important'
-  - '@@||json.bild.tagger.opecloud.com^$important'
-  - '@@||j.mp^$important'
-  - '@@||goo.gl^$important'
-  - '@@||ddownload.com^$important'
-  - '@@||skydeutschland.sc.omtrdc.net^$important'
-  - '@@||combine.urbanairship.com^$important'
-  - '@@||app-measurement.com^$important'
-  - '@@||imasdk.googleapis.com^$important'
-  - '@@||metrics.brightcove.com^$important'
-  - '@@||cdn.privacy-mgmt.com^$important'
-  - '@@||taplink.cc^$important'
-  - '@@||ups.inq.com^$important'
-  - '@@||fls-eu.amazon.de^$important'
-  - '@@||unagi-na.amazon.com^$important'
-  - '@@||ipinfo.io^$important'
-  - '@@||in.appcenter.ms^$important'
-  - '@@||xvideos.com^$important'
-  - '@@||brevo.com^$important'
-  - "@@||get.brevo.com\t^$important"
-  - '@@||designsystem.brevo.com^$important'
-  - '@@||billing-v2.brevo.com^$important'
-  - '@@||matomo.org^$important'
-  - '@@||device-messaging-na.amazon.com^$important'
-  - "@@||ocsp.pki.goog\t^$important"
-  - '@@||kinesis.eu-west-1.amazonaws.com^$important'
-  - '@@||device-metrics-us.amazon.com^$important'
-  - '@@||ifunapi1.serverpower.net^$important'
-  - '@@||ifunapi2.serverpower.net^$important'
-  - '@@||ifunapi.serverpower.net^$important'
-  - '@@||api.smoot.apple.com^$important'
-  - '@@||devicemessaging.us-east-1.amazon.com^$important'
-  - '@@||de.mammotion.com^$important'
-  - '@@||log.getadblock.com^$important'
-  - '@@||jnn-pa.googleapis.com^$important'
-  - '@@||saa.paramountplus.com^$important'
-  - '@@||vod-gcs-cedexis.cbsaavideo.com^$important'
-  - '@@||conduit.redfast.com^$important'
-  - '@@||splice.amlg.io^$important'
-  - '@@||8cb691e535702e64106a3948d54b901798889ee3.cws.conviva.com^$important'
-  - '@@||vod62c350g.airspace-cdn.cbsivideo.com^$important'
-  - '@@||images2.minutemediacdn.com^$important'
-  - "@@||id.mammotion.com\t^$important"
-  - '@@||bakery.pplus.paramount.tech^$important'
-  - '@@||support.mammotion.com^$important'
-  - '@@||tinyurl.com^$important'
-  - '@@||domestic.mammotion.com^$important'
-  - '@@||app-h5.mammotion.com^$important'
-  - '@@||us.mammotion.com^$important'
-  - '@@||www.google.com^$important'
-  - '@@||www.google.de^$important'
-  - '@@||ei-ph.rdtcdn.com^$important'
-  - '@@||id.mammotion.com^$important'
-  - '@@||mdn.mammotion.com^$important'
-  - '@@||ynuf.aliapp.org^$important'
-  - '@@||sec.umeng.com^$important'
-  - '@@||public.itls.eu-central-1.aliyuncs.com^$important'
-  - '@@||paramountplus.com.data.adobedc.net^$important'
-  - '@@||propef179e30.as.ns1.cbsivideo.com^$important'
-  - '@@||8cb691e535702e64106a3948d54b901798889ee3.ipv6.cws.conviva.com^$important'
-  - '@@||cws-iad4-slb10.conviva.com^$important'
-  - '@@||8cb691e535702e64106a3948d54b901798889ee3.ipv4.cws.conviva.com^$important'
-  - '@@||dg-fa-h1.rspcdn.net^$important'
-  - '@@||onprem-ipv4.cws.conviva.com^$important'
-  - '@@||bmedia-gcore.justservingfiles.net^$important'
-  - '@@||url8634.legoland.de^$important'
-  - '@@||mobile-collector.newrelic.com^$important'
-  - '@@||vod62c350g.as.ns1.cbsivideo.com^$important'
-  - '@@||airspace-ipblocks.cbsivideo.com^$important'
-  - '@@||splice.paramountplus.com^$important'
-  - '@@||bild.met.vgwort.de^$important'
-  - '@@||data-861bbf2127.bild.de^$important'
-  - '@@||bsjde.img.sp1-brevo.net^$important'
-  - '@@||bsjde.r.sp1-brevo.net^$important'
-  - '@@||fbs.smoot.apple.com^$important'
-  - '@@||me.apple-dns.net^$important'
-  - '@@||xp.apple.com^$important'
-  - '@@||partiality.itunes.apple.com^$important'
-  - '@@||cf.iadsdk.apple.com^$important'
-  - '@@||api.condatis.sky^$important'
-  - '@@||www.boxpirates.to^$important'
-  - '@@||theweathercompany.data.adobedc.net^$important'
-  - '@@||airlytics.airlock.twcmobile.weather.com^$important'
-  - '@@||europe-west1-sc-outlet-mit-ayt-ga-data-p.cloudfunctions.net^$important'
-  - '@@||www.youtube.com^$important'
-  - '@@||youtubei.googleapis.com^$important'
-  - '@@||spc.n26.com^$important'
-  - '@@||spc.n26.com^$important'
-  - '@@||d.dropbox.com^$important'
-  - '@@||eu-prod.oppwa.com^$important'
-  - '@@||eum-blue-saas.instana.io^$important'
-  - '@@||local^$important'
-  - '@@||www.digital-eliteboard.com^$important'
-  - '@@||www.digital-eliteboard.com^$important'
-  - '@@||mega.nz^$important'
-  - '@@||eu.static.mega.co.nz^$important'
-  - '@@||g.api.mega.co.nz^$important'
-  - '@@||gfs214n144.userstorage.mega.co.nz^$important'
-  - '@@||gfs270n375.userstorage.mega.co.nz^$important'
-  - '@@||gfs208n142.userstorage.mega.co.nz^$important'
-  - '@@||gfs206n140.userstorage.mega.co.nz^$important'
-  - '@@||gfs204n150.userstorage.mega.co.nz^$important'
-  - '@@||gfs262n336.userstorage.mega.co.nz^$important'
-  - '@@||apt.fury.io^$important'
-  - '@@||itv.ard.de^$important'
-  - '@@||events.mapbox.com^$important'
-  - '@@||b79c66077e27a1c100292a6aa5da291cfa7da7ef982a7d0d2708be38d76b31f.us-east-1.prod.service.minerva.devices.a2z.com^$important'
-  - '@@||www.baidu.com^$important'
-  - '@@||mammotion.com^$important'
-  - '@@||mds.mammotion.com^$important'
-  - '@@||ei.phncdn.com^$important'
-  - '@@||cdn1-smallimg.phncdn.com^$important'
-  - '@@||ew.phncdn.com^$important'
-  - '@@||smallimg.phncdn.com^$important'
-  - '@@||ss.phncdn.com^$important'
-  - '@@||cdn1d-static-shared.phncdn.com^$important'
-  - '@@||etahub.com^$important'
-  - '@@||www.avp-autoland.de^$important'
-  - '@@||cdn.skoda-auto.com^$important'
-  - '@@||api-vz2-ad.skoda-auto.com^$important'
-  - '@@||track-and-trace.glsnxt.com^$important'
-  - '@@||scnv.io^$important'
-  - '@@||smetric.volkswagen.com^$important'
-  - '@@||smetric.volkswagen.com^$important'
-  - '@@||init.ess.apple.com^$important'
-  - '@@||guzzoni.apple.com^$important'
-  - '@@||gs-loc.apple.com^$important'
-  - '@@||mesu.apple.com^$important'
-  - '@@||gsp-ssl.ls.apple.com^$important'
-  - '@@||mesu.g.aaplimg.com^$important'
-  - '@@||publicassets.cdn-apple.com^$important'
-  - '@@||gspe11-ssl.ls.apple.com^$important'
-  - '@@||iosapps.itunes.apple.com^$important'
-  - '@@||amd-infra.itunes.apple.com^$important'
-  - '@@||api-glb-aeun1a.smoot.apple.com^$important'
-  - '@@||st0re.wtf^$important'
-  - '@@||sentry.io^$important'
-  - '@@||unagi.amazon.de^$important'
-  - '@@||unagi-eu.amazon.com^$important'
-  - '@@||ro1z.mjt.lu^$important'
-  - '@@||wonderl.ink^$important'
-  - '@@||qrco.de^$important'
-  - '@@||url5514.dachsteinkoenig.at^$important'
-  - '@@||demo.digital-peak.com^$important'
-  - '@@||mas-sdk.amazon.com^$client=''Lena´s Tablett'',important'
-  - '@@||2347257ae108f17b971c2c4d18a7d5e6fc7d9b6bdd9d39e12ec41802b1ba68e.us-east-1.prod.service.minerva.devices.a2z.com^$client=''Lena´s Tablett'',important'
-  - '@@||firebase-settings.crashlytics.com^$client=''Lena´s Tablett'',important'
-  - '@@||go.freiheitplus.de^$important'
-  - '@@||www.freiheitplus.de^$important'
-  - '@@||img.freiheitplus.de^$important'
-  - '@@||news.freiheitplus.de^$important'
-  - '@@||x.ss2.us^$important'
-  - '@@||sentry-events.finanzguru.de^$important'
-  - '@@||delivery-ci360.infos.dkb.de^$important'
-  - '@@||dpn.cid.samba.tv^$important'
-  - '@@||www.11teamsports.com^$important'
-  - '@@||laola.biz^$important'
-  - '@@||erima.shop^$important'
-  - '@@||affinity.help^$important'
-  - '@@||sentry.traderepublic.com^$important'
-  - '@@||mas-sdk.amazon.com^$important'
-  - '@@||2347257ae108f17b971c2c4d18a7d5e6fc7d9b6bdd9d39e12ec41802b1ba68e.us-east-1.prod.service.minerva.devices.a2z.com^$client=''Lena´s Tablett'',important'
-  - '@@||firebase-settings.crashlytics.com^$client=''Lena´s Tablett'',important'
-  - '@@||dpm.demdex.net^$client=''Lena´s Tablett'',important'
-  - '@@||link.fcbayern.com^$important'
-  - '@@||www.holzprofi24.de^$important'
-  - '@@||static.holzprofi24.de^$important'
-  - '@@||api.onefootball.com^$important'
-  - '@@||config.onefootball.com^$important'
-  - '@@||news.onefootball.com^$important'
-  - '@@||image-service.onefootball.com^$important'
-  - '@@||filebucket.onefootball.com^$important'
-  - '@@||onefootball.com^$important'
-  - '@@||zeug.cool^$important'
-  - '@@||api.sae.systems^$important'
-  - '@@||aco.shop^$important'
-  - '@@||www.goriller.shop^$important'
-  - '@@||link.mailing.dfb.de^$important'
-  - '@@||sdk.iad-05.braze.com^$important'
-  - '@@||link.mail.revolutionrace.com^$important'
-  - '@@||www.trumerholz.com^$important'
-  - '@@||tuerenwelt.shop^$important'
-  - '@@||data-7b4229ab74.idowa.de^$important'
-  - '@@||api.usercentrics.eu^$important'
-  - '@@||tags.tiqcdn.com^$important'
-  - '@@||aggregator.service.usercentrics.eu^$important'
-  - '@@||url3.yesim.guru^$important'
-  - '@@||app-analytics-services.com^$important'
-  - '@@||auth.split.io^$important'
-  - '@@||sdk.split.io^$important'
-  - '@@||events.split.io^$important'
-  - '@@||trk.pinterest.com^$client=''iP_Anita'',important'
-  - '@@||i.pinimg.com^$client=''iP_Anita'',important'
-  - '@@||cnam4c-gcdsdk.appsflyersdk.com^$client=''iP_Anita'',important'
-  - '@@||www.atlanticahotels.com^$important'
-  - '@@||elfsight.com^$important'
-  - '@@||phosphor.utils.elfsightcdn.com^$important'
-  - '@@||phrase-translator.utils.elfsightcdn.com^$important'
-  - '@@||cdns.gigya.com^$important'
-  - '@@||cdns.eu1.gigya.com^$important'
-  - '@@||events.api.serifservices.com^$important'
-  - '@@||cdns.eu1.gigya.com^$important'
-  - '@@||socialize.eu1.gigya.com^$important'
-  - '@@||accounts.eu1.gigya.com^$important'
-  - '@@||dfme.kleinanzeigen.de^$important'
-  - '@@||openclaw.ai^$important'
-  - '@@||a-cdn.anthropic.com^$important'
-  - '@@||a-api.anthropic.com^$important'
-  - '@@||cdn.prod.website-files.com^$important'
-  - '@@||117895469.intellimizeio.com^$important'
-  - '@@||api.intellimize.co^$important'
+@@||device-metrics-us-2.amazon.com^$important
+@@||static.criteo.net^$important
+@@||s.ytimg.com^$important
+@@||s.youtube.com^$important
+@@||bit.ly^$important
+@@||amzn.to^$important
+@@||metrics.icloud.com^$important
+@@||de.aliexpress.com^$important
+@@||ae01.alicdn.com^$important
+@@||sourcepoint.mgr.consensu.org^$important
+@@||v.shopify.com^$important
+@@||fonts.gstatic.com^$important
+@@||assets.adobedtm.com^$important
+@@||sams.spiegel.de^$important
+@@||script.ioam.de^$important
+@@||confiant-integrations.global.ssl.fastly.net\t^$important"
+@@||sport1.pushwoosh.com\t^$important"
+@@||ha.pushwoosh.com\t^$important"
+@@||richmedia.pushwoosh.com\t^$important"
+@@||de.ioam.de^$important
+@@||adstax-match.adrtx.net\t^$important"
+@@||acdn.adnxs.com\t^$important"
+@@||rem-track.bild.de\t^$important"
+@@||www.asadcdn.com\t^$important"
+@@||cdn.taboola.com\t^$important"
+@@||tags.tiqcdn.com\t^$important"
+@@||asadcdn.com\t^$important"
+@@||taboola.com\t^$important"
+@@||ioam.de\t^$important"
+@@||imagesrv.adition.com\t^$important"
+@@||ping.chartbeat.net\t^$important"
+@@||iam-agof-app.irquest.com\t^$important"
+@@||json.bild.de^$important
+@@||json.bild.tagger.opecloud.com^$important
+@@||j.mp^$important
+@@||goo.gl^$important
+@@||ddownload.com^$important
+@@||skydeutschland.sc.omtrdc.net^$important
+@@||combine.urbanairship.com^$important
+@@||app-measurement.com^$important
+@@||imasdk.googleapis.com^$important
+@@||metrics.brightcove.com^$important
+@@||cdn.privacy-mgmt.com^$important
+@@||taplink.cc^$important
+@@||ups.inq.com^$important
+@@||fls-eu.amazon.de^$important
+@@||unagi-na.amazon.com^$important
+@@||ipinfo.io^$important
+@@||in.appcenter.ms^$important
+@@||brevo.com^$important
+@@||get.brevo.com\t^$important"
+@@||designsystem.brevo.com^$important
+@@||billing-v2.brevo.com^$important
+@@||matomo.org^$important
+@@||device-messaging-na.amazon.com^$important
+@@||ocsp.pki.goog\t^$important"
+@@||kinesis.eu-west-1.amazonaws.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||ifunapi1.serverpower.net^$important
+@@||ifunapi2.serverpower.net^$important
+@@||ifunapi.serverpower.net^$important
+@@||api.smoot.apple.com^$important
+@@||devicemessaging.us-east-1.amazon.com^$important
+@@||de.mammotion.com^$important
+@@||log.getadblock.com^$important
+@@||jnn-pa.googleapis.com^$important
+@@||saa.paramountplus.com^$important
+@@||vod-gcs-cedexis.cbsaavideo.com^$important
+@@||conduit.redfast.com^$important
+@@||splice.amlg.io^$important
+@@||8cb691e535702e64106a3948d54b901798889ee3.cws.conviva.com^$important
+@@||vod62c350g.airspace-cdn.cbsivideo.com^$important
+@@||images2.minutemediacdn.com^$important
+@@||id.mammotion.com\t^$important"
+@@||bakery.pplus.paramount.tech^$important
+@@||support.mammotion.com^$important
+@@||tinyurl.com^$important
+@@||domestic.mammotion.com^$important
+@@||app-h5.mammotion.com^$important
+@@||us.mammotion.com^$important
+@@||www.google.com^$important
+@@||www.google.de^$important
+@@||ei-ph.rdtcdn.com^$important
+@@||id.mammotion.com^$important
+@@||mdn.mammotion.com^$important
+@@||ynuf.aliapp.org^$important
+@@||sec.umeng.com^$important
+@@||public.itls.eu-central-1.aliyuncs.com^$important
+@@||paramountplus.com.data.adobedc.net^$important
+@@||propef179e30.as.ns1.cbsivideo.com^$important
+@@||8cb691e535702e64106a3948d54b901798889ee3.ipv6.cws.conviva.com^$important
+@@||cws-iad4-slb10.conviva.com^$important
+@@||8cb691e535702e64106a3948d54b901798889ee3.ipv4.cws.conviva.com^$important
+@@||dg-fa-h1.rspcdn.net^$important
+@@||onprem-ipv4.cws.conviva.com^$important
+@@||bmedia-gcore.justservingfiles.net^$important
+@@||url8634.legoland.de^$important
+@@||mobile-collector.newrelic.com^$important
+@@||vod62c350g.as.ns1.cbsivideo.com^$important
+@@||airspace-ipblocks.cbsivideo.com^$important
+@@||splice.paramountplus.com^$important
+@@||bild.met.vgwort.de^$important
+@@||data-861bbf2127.bild.de^$important
+@@||bsjde.img.sp1-brevo.net^$important
+@@||bsjde.r.sp1-brevo.net^$important
+@@||fbs.smoot.apple.com^$important
+@@||me.apple-dns.net^$important
+@@||xp.apple.com^$important
+@@||partiality.itunes.apple.com^$important
+@@||cf.iadsdk.apple.com^$important
+@@||api.condatis.sky^$important
+@@||www.boxpirates.to^$important
+@@||theweathercompany.data.adobedc.net^$important
+@@||airlytics.airlock.twcmobile.weather.com^$important
+@@||europe-west1-sc-outlet-mit-ayt-ga-data-p.cloudfunctions.net^$important
+@@||www.youtube.com^$important
+@@||youtubei.googleapis.com^$important
+@@||spc.n26.com^$important
+@@||spc.n26.com^$important
+@@||d.dropbox.com^$important
+@@||eu-prod.oppwa.com^$important
+@@||eum-blue-saas.instana.io^$important
+@@||local^$important
+@@||www.digital-eliteboard.com^$important
+@@||www.digital-eliteboard.com^$important
+@@||mega.nz^$important
+@@||eu.static.mega.co.nz^$important
+@@||g.api.mega.co.nz^$important
+@@||gfs214n144.userstorage.mega.co.nz^$important
+@@||gfs270n375.userstorage.mega.co.nz^$important
+@@||gfs208n142.userstorage.mega.co.nz^$important
+@@||gfs206n140.userstorage.mega.co.nz^$important
+@@||gfs204n150.userstorage.mega.co.nz^$important
+@@||gfs262n336.userstorage.mega.co.nz^$important
+@@||apt.fury.io^$important
+@@||itv.ard.de^$important
+@@||events.mapbox.com^$important
+@@||b79c66077e27a1c100292a6aa5da291cfa7da7ef982a7d0d2708be38d76b31f.us-east-1.prod.service.minerva.devices.a2z.com^$important
+@@||www.baidu.com^$important
+@@||mammotion.com^$important
+@@||mds.mammotion.com^$important
+@@||ei.phncdn.com^$important
+@@||cdn1-smallimg.phncdn.com^$important
+@@||ew.phncdn.com^$important
+@@||smallimg.phncdn.com^$important
+@@||ss.phncdn.com^$important
+@@||cdn1d-static-shared.phncdn.com^$important
+@@||etahub.com^$important
+@@||www.avp-autoland.de^$important
+@@||cdn.skoda-auto.com^$important
+@@||api-vz2-ad.skoda-auto.com^$important
+@@||track-and-trace.glsnxt.com^$important
+@@||scnv.io^$important
+@@||smetric.volkswagen.com^$important
+@@||smetric.volkswagen.com^$important
+@@||init.ess.apple.com^$important
+@@||guzzoni.apple.com^$important
+@@||gs-loc.apple.com^$important
+@@||mesu.apple.com^$important
+@@||gsp-ssl.ls.apple.com^$important
+@@||mesu.g.aaplimg.com^$important
+@@||publicassets.cdn-apple.com^$important
+@@||gspe11-ssl.ls.apple.com^$important
+@@||iosapps.itunes.apple.com^$important
+@@||amd-infra.itunes.apple.com^$important
+@@||api-glb-aeun1a.smoot.apple.com^$important
+@@||st0re.wtf^$important
+@@||sentry.io^$important
+@@||unagi.amazon.de^$important
+@@||unagi-eu.amazon.com^$important
+@@||ro1z.mjt.lu^$important
+@@||wonderl.ink^$important
+@@||qrco.de^$important
+@@||url5514.dachsteinkoenig.at^$important
+@@||demo.digital-peak.com^$important
+@@||mas-sdk.amazon.com^$client=''Lena´s Tablett'',important
+@@||2347257ae108f17b971c2c4d18a7d5e6fc7d9b6bdd9d39e12ec41802b1ba68e.us-east-1.prod.service.minerva.devices.a2z.com^$client=''Lena´s Tablett'',important
+@@||firebase-settings.crashlytics.com^$client=''Lena´s Tablett'',important
+@@||go.freiheitplus.de^$important
+@@||www.freiheitplus.de^$important
+@@||img.freiheitplus.de^$important
+@@||news.freiheitplus.de^$important
+@@||x.ss2.us^$important
+@@||sentry-events.finanzguru.de^$important
+@@||delivery-ci360.infos.dkb.de^$important
+@@||dpn.cid.samba.tv^$important
+@@||www.11teamsports.com^$important
+@@||laola.biz^$important
+@@||erima.shop^$important
+@@||affinity.help^$important
+@@||sentry.traderepublic.com^$important
+@@||mas-sdk.amazon.com^$important
+@@||2347257ae108f17b971c2c4d18a7d5e6fc7d9b6bdd9d39e12ec41802b1ba68e.us-east-1.prod.service.minerva.devices.a2z.com^$client=''Lena´s Tablett'',important
+@@||firebase-settings.crashlytics.com^$client=''Lena´s Tablett'',important
+@@||dpm.demdex.net^$client=''Lena´s Tablett'',important
+@@||link.fcbayern.com^$important
+@@||www.holzprofi24.de^$important
+@@||static.holzprofi24.de^$important
+@@||api.onefootball.com^$important
+@@||config.onefootball.com^$important
+@@||news.onefootball.com^$important
+@@||image-service.onefootball.com^$important
+@@||filebucket.onefootball.com^$important
+@@||onefootball.com^$important
+@@||zeug.cool^$important
+@@||api.sae.systems^$important
+@@||aco.shop^$important
+@@||www.goriller.shop^$important
+@@||link.mailing.dfb.de^$important
+@@||sdk.iad-05.braze.com^$important
+@@||link.mail.revolutionrace.com^$important
+@@||www.trumerholz.com^$important
+@@||tuerenwelt.shop^$important
+@@||data-7b4229ab74.idowa.de^$important
+@@||api.usercentrics.eu^$important
+@@||tags.tiqcdn.com^$important
+@@||aggregator.service.usercentrics.eu^$important
+@@||url3.yesim.guru^$important
+@@||app-analytics-services.com^$important
+@@||auth.split.io^$important
+@@||sdk.split.io^$important
+@@||events.split.io^$important
+@@||trk.pinterest.com^$client=''iP_Anita'',important
+@@||i.pinimg.com^$client=''iP_Anita'',important
+@@||cnam4c-gcdsdk.appsflyersdk.com^$client=''iP_Anita'',important
+@@||www.atlanticahotels.com^$important
+@@||elfsight.com^$important
+@@||phosphor.utils.elfsightcdn.com^$important
+@@||phrase-translator.utils.elfsightcdn.com^$important
+@@||cdns.gigya.com^$important
+@@||cdns.eu1.gigya.com^$important
+@@||events.api.serifservices.com^$important
+@@||cdns.eu1.gigya.com^$important
+@@||socialize.eu1.gigya.com^$important
+@@||accounts.eu1.gigya.com^$important
+@@||dfme.kleinanzeigen.de^$important
+@@||openclaw.ai^$important
+@@||a-cdn.anthropic.com^$important
+@@||a-api.anthropic.com^$important
+@@||cdn.prod.website-files.com^$important
+@@||117895469.intellimizeio.com^$important
+@@||api.intellimize.co^$important
