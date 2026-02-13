@@ -240,3 +240,4 @@
 @@||cdn.prod.website-files.com^$important
 @@||117895469.intellimizeio.com^$important
 @@||api.intellimize.co^$important
+@@||bitly.com^$important
