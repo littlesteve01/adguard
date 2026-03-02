@@ -241,3 +241,7 @@
 @@||117895469.intellimizeio.com^$important
 @@||api.intellimize.co^$important
 @@||bitly.com^$important
+@@||api.skiline.cc^$important
+@@||app.skiline.cc^$important
+@@||www.skiline.cc^$important
+@@||skiline.cc^$important
