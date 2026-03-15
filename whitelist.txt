@@ -248,3 +248,4 @@
 @@||html-load.com^$important
 @@||zndpwbggebjqhu2ua-bmwonevoice.siteintercept.qualtrics.com^$important
 @@||api.countly.bmwgroup.com^$important
+@@||claudekit.cc^$important
