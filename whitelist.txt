@@ -249,3 +249,6 @@
 @@||zndpwbggebjqhu2ua-bmwonevoice.siteintercept.qualtrics.com^$important
 @@||api.countly.bmwgroup.com^$important
 @@||claudekit.cc^$important
+@@||seat.sc.omtrdc.net^$important
+@@||seat.sc.omtrdc.net^$important
+@@||ca.iadsdk.apple.com^$important
