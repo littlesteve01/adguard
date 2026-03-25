@@ -252,3 +252,6 @@
 @@||seat.sc.omtrdc.net^$important
 @@||seat.sc.omtrdc.net^$important
 @@||ca.iadsdk.apple.com^$important
+@@||r.mail.xletix.com^$important
+@@||r.mail.xletix.com^$important
+@@||img.mail.xletix.com^$important
