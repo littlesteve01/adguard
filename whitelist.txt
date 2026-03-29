@@ -257,3 +257,4 @@
 @@||img.mail.xletix.com^$important
 @@||www.mrmarvis.com^$important
 @@||api.oeg-kraken.energy^$important
+@@||www.lehadesign.club^$important
