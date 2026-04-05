@@ -259,3 +259,4 @@
 @@||api.oeg-kraken.energy^$important
 @@||www.lehadesign.club^$important
 @@||replicate.delivery^$important
+@@||icam.camdvr.org^$important
