@@ -261,3 +261,4 @@
 @@||replicate.delivery^$important
 @@||icam.camdvr.org^$important
 @@||callonme.tel^$important
+@@||my.manychat.com^$important
