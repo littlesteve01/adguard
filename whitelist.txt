@@ -276,3 +276,7 @@
 @@||dai.google.com^$important
 @@||vod.pplus.paramount.tech^$important
 @@||2764286735.shelly.com^$important
+@@||cdn.cookielaw.org^$important
+@@||text.mitarbeiterangebote.de^$important
+@@||cdn.userway.org^$important
+@@||my.matterport.com^$important
