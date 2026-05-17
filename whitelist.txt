@@ -280,3 +280,15 @@
 @@||text.mitarbeiterangebote.de^$important
 @@||cdn.userway.org^$important
 @@||my.matterport.com^$important
+@@||ipv6-onprem.cws.conviva.com^$client=''AppleTv'',important
+@@||ipv4.cws.conviva.com^$client=''AppleTv'',important
+@@||cws-eu.conviva.com^$client=''AppleTv'',important
+@@||013a8c007a93cbd5cba3a1e824a4c1bb0217eafdbc162ceb88357a5f2a48d04.us-east-1.prod.service.minerva.devices.a2z.com^$client=''AppleTv'',important
+@@||vod.vtg.paramount.tech^$client=''AppleTv'',important
+@@||pubads.g.doubleclick.net^$client=''AppleTv'',important
+@@||ipv4-onprem.cws.conviva.com^$client=''AppleTv'',important
+@@||va-edge.sc.omtrdc.net^$client=''AppleTv'',important
+@@||ca.iadsdk.apple.com.akadns.net^$important
+@@||poolcabe1d37.airspace-cdn.cbsivideo.com^$client=''AppleTv'',important
+@@||poolcabe1d37.as.ns1.cbsivideo.com^$client=''AppleTv'',important
+@@||cws-sjc2-rdc2.conviva.com^$client=''AppleTv'',important
