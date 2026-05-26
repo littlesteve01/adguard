@@ -292,3 +292,5 @@
 @@||poolcabe1d37.airspace-cdn.cbsivideo.com^$client=''AppleTv'',important
 @@||poolcabe1d37.as.ns1.cbsivideo.com^$client=''AppleTv'',important
 @@||cws-sjc2-rdc2.conviva.com^$client=''AppleTv'',important
+@@||outlook.office365.com^$important
+@@||outlook.office365.com^$important
