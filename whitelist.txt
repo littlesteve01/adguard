@@ -294,3 +294,4 @@
 @@||cws-sjc2-rdc2.conviva.com^$client=''AppleTv'',important
 @@||outlook.office365.com^$important
 @@||outlook.office365.com^$important
+@@||goriller.shop^$important
