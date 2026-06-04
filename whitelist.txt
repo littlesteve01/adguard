@@ -295,3 +295,4 @@
 @@||outlook.office365.com^$important
 @@||outlook.office365.com^$important
 @@||goriller.shop^$important
+@@||*.shop^$important
