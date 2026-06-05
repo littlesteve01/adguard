@@ -296,3 +296,6 @@
 @@||outlook.office365.com^$important
 @@||goriller.shop^$important
 @@||*.shop^$important
+@@||services.travelzoo.com^$important
+@@||services.travelzoo.com^$important
+@@||trck.linkster.co^$important
