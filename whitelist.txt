@@ -299,3 +299,4 @@
 @@||services.travelzoo.com^$important
 @@||services.travelzoo.com^$important
 @@||trck.linkster.co^$important
+@@||del.dhl.com^$important
